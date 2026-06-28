@@ -113,17 +113,14 @@ Projects            ██░░░░░░░░░░░░░░░░░░
 ---
 
 ## 📂 Featured Repositories
-
 <div align="center">
-
 <a href="https://github.com/AvikamGupta/Cpp-Journey">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvikamGupta&repo=Cpp-Journey&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvikamGupta&repo=Cpp-Journey&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF&cache_seconds=0"/>
 </a>
 &nbsp;
 <a href="https://github.com/AvikamGupta/LEET-CODE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvikamGupta&repo=LEET-CODE&theme=tokyonight&hide_border=true&title_color=FFA726&icon_color=FFA726"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvikamGupta&repo=LEET-CODE&theme=tokyonight&hide_border=true&title_color=FFA726&icon_color=FFA726&cache_seconds=0"/>
 </a>
-
 </div>
 
 ---
