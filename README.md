@@ -2,177 +2,162 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Learning+C%2B%2B+Every+Day;Future+Software+Engineer;DSA+%7C+Competitive+Programming;Building+Projects;Always+Learning+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student+%F0%9F%8E%93;Learning+C%2B%2B+%26+DSA+Every+Day+%F0%9F%9A%80;Future+Software+Engineer+%F0%9F%92%BB;Competitive+Programming+Enthusiast+%F0%9F%8F%86;Building+Consistency+%E2%80%94+One+Day+at+a+Time+%F0%9F%94%A5"/>
 
-<br>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=AvikamGupta&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/AvikamGupta?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/AvikamGupta?style=for-the-badge"/>
+&nbsp;
+<a href="https://github.com/AvikamGupta?tab=followers">
+  <img src="https://img.shields.io/github/followers/AvikamGupta?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/Avikam_Gupta">
+  <img src="https://img.shields.io/badge/LeetCode-Avikam__Gupta-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```cpp
 class AvikamGupta {
-
 public:
-
-    string education = "B.Tech CSE";
-
-    string currentlyLearning = "C++";
-
-    string nextGoal = "Data Structures & Algorithms";
-
-    string interest = "Competitive Programming";
-
-    string dream = "Software Engineer";
-
+    string education        = "B.Tech — Computer Science & Engineering";
+    string currentlyLearning = "C++ · Data Structures · Algorithms";
+    string practising       = "LeetCode · Problem Solving Daily";
+    string interests        = "Competitive Programming · Open Source";
+    string dream            = "Software Engineer";
+    bool   openToConnect    = true;
 };
 ```
 
 ---
 
-# 🚀 Currently Working On
+## 🚀 Currently Working On
 
-- 📚 Learning Modern C++
-- 🧠 Strengthening Programming Fundamentals
-- 💻 Solving Problems Daily
-- 🚀 Preparing for DSA
-- 🌱 Building Consistency
+- 📚 Mastering Modern C++ — notes + code every day
+- 🧠 Solving LeetCode problems across Arrays, Strings & Math
+- 💻 Building a structured DSA preparation roadmap
+- 🌱 Maintaining daily consistency — no days off
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,git,github,vscode,linux"/>
-
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,git,github,vscode,linux&theme=dark"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AvikamGupta&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AvikamGupta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF"/>
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvikamGupta&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvikamGupta&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=AvikamGupta&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 📈 Activity Graph
+## 🔥 Streak & Activity
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AvikamGupta&theme=tokyo-night&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=AvikamGupta&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 
-</p>
+<br/><br/>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AvikamGupta&theme=tokyo-night&hide_border=true&area=true"/>
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AvikamGupta&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
+</div>
 
 ---
 
-# 🌱 Current Learning Roadmap
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AvikamGupta&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
+
+</div>
+
+---
+
+## 🧩 LeetCode Progress
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Avikam_Gupta?theme=dark&font=Fira+Code&ext=heatmap)](https://leetcode.com/Avikam_Gupta)
+
+</div>
+
+---
+
+## 🌱 Learning Roadmap
 
 ```text
-C++                 ██████████████████░░░░ 70%
-
-DSA                 █████░░░░░░░░░░░░░░░░░ 20%
-
-Competitive Coding  ███░░░░░░░░░░░░░░░░░░░ 10%
-
-Projects            ██░░░░░░░░░░░░░░░░░░░░ 05%
+C++ Fundamentals    ████████████████████░░   90%  ✅ Almost Complete
+Strings (C++)       ██████░░░░░░░░░░░░░░░░   30%  ⏳ In Progress
+LeetCode Problems   ███████░░░░░░░░░░░░░░░   21 / 500+ Solved
+DSA                 █████░░░░░░░░░░░░░░░░░   20%  📚 Starting Soon
+Competitive Coding  ███░░░░░░░░░░░░░░░░░░░   10%  🎯 Goal
+Projects            ██░░░░░░░░░░░░░░░░░░░░   05%  🚀 Upcoming
 ```
 
 ---
 
-# 📂 Featured Repository
+## 📂 Featured Repositories
 
-## 🚀 Cpp-Journey
+<div align="center">
 
-📖 Well-Organized Notes
+<a href="https://github.com/AvikamGupta/Cpp-Journey">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvikamGupta&repo=Cpp-Journey&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF"/>
+</a>
+&nbsp;
+<a href="https://github.com/AvikamGupta/LEET-CODE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvikamGupta&repo=LEET-CODE&theme=tokyonight&hide_border=true&title_color=FFA726&icon_color=FFA726"/>
+</a>
 
-💻 Practice Programs
-
-📅 Daily Learning Progress
-
-🧠 Problem Solving
-
-🚀 Mini Projects
-
-⭐ Repository
-
-```text
-github.com/AvikamGupta/Cpp-Journey
-```
+</div>
 
 ---
 
-# 🎯 Goals
+## 🎯 Goals
 
-✅ Master Modern C++
-
-✅ Learn STL
-
-✅ Solve 500+ DSA Problems
-
-✅ Build Real Projects
-
-✅ Participate in Coding Contests
-
-✅ Contribute to Open Source
+| Goal | Status |
+|------|:------:|
+| Master Modern C++ | ⏳ In Progress |
+| Master STL | 📚 Upcoming |
+| Solve 500+ LeetCode Problems | ⏳ 21 / 500+ |
+| Build Real Projects | 📚 Upcoming |
+| Participate in Coding Contests | 📚 Upcoming |
+| Contribute to Open Source | 📚 Upcoming |
 
 ---
 
-# 💬 Dev Quote
+## 💬 Dev Quote
 
-<p align="center">
+<div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-</p>
+</div>
 
 ---
 
-# ⚡ Fun Fact
+## ⚡ Fun Fact
 
 ```cpp
-while(alive)
-{
+while (alive) {
     learn();
-
     code();
-
     improve();
-
     repeat();
 }
 ```
@@ -181,9 +166,11 @@ while(alive)
 
 <div align="center">
 
-## ⭐ Thanks for Visiting!
+### ⭐ Thanks for Visiting!
 
 *"Consistency beats talent when talent doesn't stay consistent."*
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:58A6FF,100:0F2027"/>
 
