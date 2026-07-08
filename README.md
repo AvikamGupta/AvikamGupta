@@ -57,9 +57,9 @@ public:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AvikamGupta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF"/>
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=AvikamGupta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF"/>
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvikamGupta&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF"/>
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AvikamGupta&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF"/>
 
 </div>
 
@@ -69,7 +69,7 @@ public:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AvikamGupta&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=AvikamGupta&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 
 <br/><br/>
 
@@ -104,7 +104,7 @@ public:
 ```text
 C++ Fundamentals    ████████████████████░░   90%  ✅ Almost Complete
 Strings (C++)       ██████░░░░░░░░░░░░░░░░   30%  ⏳ In Progress
-LeetCode Problems   ███████░░░░░░░░░░░░░░░   21 / 500+ Solved
+LeetCode Problems   ███████░░░░░░░░░░░░░░░   24 / 500+ Solved
 DSA                 █████░░░░░░░░░░░░░░░░░   20%  📚 Starting Soon
 Competitive Coding  ███░░░░░░░░░░░░░░░░░░░   10%  🎯 Goal
 Projects            ██░░░░░░░░░░░░░░░░░░░░   05%  🚀 Upcoming
@@ -113,14 +113,17 @@ Projects            ██░░░░░░░░░░░░░░░░░░
 ---
 
 ## 📂 Featured Repositories
+
 <div align="center">
+
 <a href="https://github.com/AvikamGupta/Cpp-Journey">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvikamGupta&repo=Cpp-Journey&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF&cache_seconds=0"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=AvikamGupta&repo=Cpp-Journey&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF"/>
 </a>
 &nbsp;
 <a href="https://github.com/AvikamGupta/LEET-CODE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvikamGupta&repo=LEET-CODE&theme=tokyonight&hide_border=true&title_color=FFA726&icon_color=FFA726&cache_seconds=0"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=AvikamGupta&repo=LEET-CODE&theme=tokyonight&hide_border=true&title_color=FFA726&icon_color=FFA726"/>
 </a>
+
 </div>
 
 ---
