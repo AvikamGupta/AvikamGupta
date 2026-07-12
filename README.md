@@ -102,10 +102,10 @@ public:
 ## 🌱 Learning Roadmap
 
 ```text
-C++ Fundamentals    ████████████████████░░   90%  ✅ Almost Complete
+C++ Fundamentals    ████████████████████░░   95%  ✅ Almost Complete
 Strings (C++)       ██████░░░░░░░░░░░░░░░░   30%  ⏳ In Progress
-LeetCode Problems   ███████░░░░░░░░░░░░░░░   24 / 500+ Solved
-DSA                 █████░░░░░░░░░░░░░░░░░   20%  📚 Starting Soon
+LeetCode Problems   ███████░░░░░░░░░░░░░░░   29 / 500+ Solved
+DSA                 █████░░░░░░░░░░░░░░░░░   25%  📚 Starting Soon
 Competitive Coding  ███░░░░░░░░░░░░░░░░░░░   10%  🎯 Goal
 Projects            ██░░░░░░░░░░░░░░░░░░░░   05%  🚀 Upcoming
 ```
@@ -134,7 +134,7 @@ Projects            ██░░░░░░░░░░░░░░░░░░
 |------|:------:|
 | Master Modern C++ | ⏳ In Progress |
 | Master STL | 📚 Upcoming |
-| Solve 500+ LeetCode Problems | ⏳ 24 / 500+ |
+| Solve 500+ LeetCode Problems | ⏳ 29 / 500+ |
 | Build Real Projects | 📚 Upcoming |
 | Participate in Coding Contests | 📚 Upcoming |
 | Contribute to Open Source | 📚 Upcoming |
