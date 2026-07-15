@@ -134,7 +134,7 @@ Projects            ██░░░░░░░░░░░░░░░░░░
 |------|:------:|
 | Master Modern C++ | ⏳ In Progress |
 | Master STL | 📚 Upcoming |
-| Solve 500+ LeetCode Problems | ⏳ 31 / 500+ |
+| Solve 500+ LeetCode Problems | ⏳ 32 / 500+ |
 | Build Real Projects | 📚 Upcoming |
 | Participate in Coding Contests | 📚 Upcoming |
 | Contribute to Open Source | 📚 Upcoming |
