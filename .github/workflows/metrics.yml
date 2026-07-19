@@ -11,6 +11,8 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -24,3 +26,9 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: true
           plugin_languages_details: bytes-size, percentage
+
+      - name: Commit and push generated SVG
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update github-metrics.svg"
+          file_pattern: github-metrics.svg
