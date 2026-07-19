@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student+%F0%9F%8E%93;Learning+C%2B%2B+%26+DSA+Every+Day+%F0%9F%9A%80;Future+Software+Engineer+%F0%9F%92%BB;Competitive+Programming+Enthusiast+%F0%9F%8F%86;Building+Consistency+%E2%80%94+One+Day+at+a+Time+%F0%9F%94%A5"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student+%F0%9F%8E%93;Learning+C%2B%2B+%26+DSA+Every+Day+%F0%9F%9A%80;Exploring+Web+Development+%F0%9F%8C%90;Future+Software+Engineer+%F0%9F%92%BB;Competitive+Programming+Enthusiast+%F0%9F%8F%86;Building+Consistency+%E2%80%94+One+Day+at+a+Time+%F0%9F%94%A5"/>
 
 <br/>
 
@@ -26,9 +26,10 @@
 class AvikamGupta {
 public:
     string education        = "B.Tech — Computer Science & Engineering";
-    string currentlyLearning = "C++ · Data Structures · Algorithms";
+    string currentlyLearning = "C++ · Data Structures · Algorithms · CSS";
+    string webDev            = "HTML (Completed) · CSS (In Progress)";
     string practising       = "LeetCode · Problem Solving Daily";
-    string interests        = "Competitive Programming · Open Source";
+    string interests        = "Competitive Programming · Web Development · Open Source";
     string dream            = "Software Engineer";
     bool   openToConnect    = true;
 };
@@ -40,6 +41,7 @@ public:
 
 - 📚 Mastering Modern C++ — notes + code every day
 - 🧠 Solving LeetCode problems across Arrays, Strings & Math
+- 🎨 Learning CSS after completing HTML — styling, layouts & responsive design
 - 💻 Building a structured DSA preparation roadmap
 - 🌱 Maintaining daily consistency — no days off
 
@@ -48,7 +50,7 @@ public:
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,git,github,vscode,linux&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,html,css,git,github,vscode,linux&theme=dark"/>
 </p>
 
 ---
@@ -107,6 +109,9 @@ Strings (C++)       ██████░░░░░░░░░░░░░░
 LeetCode Problems   ███████░░░░░░░░░░░░░░░   29 / 500+ Solved
 DSA                 █████░░░░░░░░░░░░░░░░░   25%  📚 Starting Soon
 Competitive Coding  ███░░░░░░░░░░░░░░░░░░░   10%  🎯 Goal
+HTML                ████████████████████████ 100% ✅ Completed
+CSS                 ██████░░░░░░░░░░░░░░░░   25%  ⏳ In Progress
+Web Development     ████░░░░░░░░░░░░░░░░░░   15%  🌐 Building Up
 Projects            ██░░░░░░░░░░░░░░░░░░░░   05%  🚀 Upcoming
 ```
 
@@ -123,6 +128,10 @@ Projects            ██░░░░░░░░░░░░░░░░░░
 <a href="https://github.com/AvikamGupta/LEET-CODE">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=AvikamGupta&repo=LEET-CODE&theme=tokyonight&hide_border=true&title_color=FFA726&icon_color=FFA726"/>
 </a>
+&nbsp;
+<a href="https://github.com/AvikamGupta/Web-Dev-Journey">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=AvikamGupta&repo=Web-Dev-Journey&theme=tokyonight&hide_border=true&title_color=58D68D&icon_color=58D68D"/>
+</a>
 
 </div>
 
@@ -135,6 +144,8 @@ Projects            ██░░░░░░░░░░░░░░░░░░
 | Master Modern C++ | ⏳ In Progress |
 | Master STL | 📚 Upcoming |
 | Solve 500+ LeetCode Problems | ⏳ 34 / 500+ |
+| Complete HTML & CSS | ⏳ HTML ✅ · CSS In Progress |
+| Learn JavaScript | 📚 Upcoming |
 | Build Real Projects | 📚 Upcoming |
 | Participate in Coding Contests | 📚 Upcoming |
 | Contribute to Open Source | 📚 Upcoming |
