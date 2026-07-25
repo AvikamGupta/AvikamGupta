@@ -217,7 +217,7 @@ class AvikamGupta {
 |------|:------:|
 | Master Modern C++ | ⏳ In Progress |
 | Master STL | 📚 Upcoming |
-| Solve 500+ LeetCode Problems | ⏳ 34 / 500+ |
+| Solve 500+ LeetCode Problems | ⏳ 35 / 500+ |
 | Complete HTML & CSS | ⏳ HTML ✅ · CSS In Progress |
 | Learn JavaScript | 📚 Upcoming |
 | Build Real Projects | 📚 Upcoming |
