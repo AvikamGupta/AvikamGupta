@@ -54,7 +54,7 @@ class AvikamGupta {
       string   focus[3]    = {"C++", "DSA", "Web Dev"};
 
   public:
-      string currentlyLearning = "C++ · DSA · CSS";
+      string currentlyLearning = "C++ · DSA · CSS · Python · SQL";
       string webDev             = "HTML ✅  |  CSS 🔄";
       string practising         = "LeetCode Daily";
       string interests          = "Competitive Programming,
@@ -74,10 +74,12 @@ class AvikamGupta {
 
 - 🎓 B.Tech CSE undergrad
 - 🧠 Deep-diving into **DSA** with C++ & Java
+- 🐍 Started **Python** — Basics & Conditionals done
+- 🗄️ Started **SQL** — Database Fundamentals done
 - 🌐 Completed **HTML**, currently sharpening **CSS**
 - 📈 Documenting every step publicly on GitHub
 - 🎯 Solving problems on **LeetCode** every day
-- 🌱 100% committed to daily consistency
+- 🌱 100% committed to consistent progress
 
 </td>
 </tr>
@@ -94,6 +96,8 @@ class AvikamGupta {
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 **Web Development**
 
@@ -107,6 +111,7 @@ class AvikamGupta {
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </div>
 
@@ -179,12 +184,16 @@ class AvikamGupta {
 |---|---|:---:|
 | C++ Fundamentals | ████████████████████░░ 95% | ✅ Almost Complete |
 | Strings (C++) | ██████░░░░░░░░░░░░░░░░ 30% | ⏳ In Progress |
-| DSA | █████░░░░░░░░░░░░░░░░░ 25% | 📚 Starting Soon |
-| LeetCode Problems | ███████░░░░░░░░░░░░░░░ 29 / 500+ | ⏳ In Progress |
-| Competitive Coding | ███░░░░░░░░░░░░░░░░░░░ 10% | 🎯 Goal |
+| DSA | █████░░░░░░░░░░░░░░░░░ 25% | ⏳ In Progress |
+| LeetCode Problems | ███████░░░░░░░░░░░░░░░ 36 / 500+ | ⏳ In Progress |
+| Python — Basics | ████████████████████ 100% | ✅ Complete |
+| Python — Conditionals | ████████████████████ 100% | ✅ Complete |
+| Python — Loops | ░░░░░░░░░░░░░░░░░░░░░░ 0% | 📚 Upcoming |
+| SQL — DB Fundamentals | ████████████████████ 100% | ✅ Complete |
+| SQL — Table Creation | ░░░░░░░░░░░░░░░░░░░░░░ 0% | 📚 Upcoming |
 | HTML | ████████████████████████ 100% | ✅ Completed |
 | CSS | ██████░░░░░░░░░░░░░░░░ 25% | 🔄 In Progress |
-| Web Development (Overall) | ████░░░░░░░░░░░░░░░░░░ 15% | 🌐 Building Up |
+| Competitive Coding | ███░░░░░░░░░░░░░░░░░░░ 10% | 🎯 Goal |
 | Projects | ██░░░░░░░░░░░░░░░░░░░░ 05% | 🚀 Upcoming |
 
 </div>
@@ -200,6 +209,12 @@ class AvikamGupta {
 </a>
 <a href="https://github.com/AvikamGupta/LEET-CODE">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=AvikamGupta&repo=LEET-CODE&theme=tokyonight&hide_border=true&title_color=FFA726&icon_color=FFA726"/>
+</a>
+<a href="https://github.com/AvikamGupta/Python-Journey">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=AvikamGupta&repo=Python-Journey&theme=tokyonight&hide_border=true&title_color=52b788&icon_color=52b788"/>
+</a>
+<a href="https://github.com/AvikamGupta/SQL-Journey">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=AvikamGupta&repo=SQL-Journey&theme=tokyonight&hide_border=true&title_color=e94560&icon_color=e94560"/>
 </a>
 <a href="https://github.com/AvikamGupta/Web-Dev-Journey">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=AvikamGupta&repo=Web-Dev-Journey&theme=tokyonight&hide_border=true&title_color=58D68D&icon_color=58D68D"/>
@@ -218,6 +233,8 @@ class AvikamGupta {
 | Master Modern C++ | ⏳ In Progress |
 | Master STL | 📚 Upcoming |
 | Solve 500+ LeetCode Problems | ⏳ 36 / 500+ |
+| Complete Python Journey | ⏳ Basics ✅ · Conditionals ✅ · Loops Next |
+| Complete SQL Journey | ⏳ Fundamentals ✅ · Table Creation Next |
 | Complete HTML & CSS | ⏳ HTML ✅ · CSS In Progress |
 | Learn JavaScript | 📚 Upcoming |
 | Build Real Projects | 📚 Upcoming |
