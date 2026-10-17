@@ -26,7 +26,8 @@
   <a href="#-tech-arsenal">Tech Stack</a> •
   <a href="#-github-analytics">Analytics</a> •
   <a href="#-learning-roadmap">Roadmap</a> •
-  <a href="#-featured-repositories">Projects</a> •
+  <a href="#-projects-built">Projects</a> •
+  <a href="#-featured-repositories">Repos</a> •
   <a href="#-goals--milestones">Goals</a> •
   <a href="#-lets-connect">Connect</a>
 </p>
@@ -55,11 +56,11 @@ class AvikamGupta {
 
   public:
       string currentlyLearning = "C++ · DSA · CSS · Python · SQL";
-      string webDev             = "HTML ✅  |  CSS 🔄";
+      string webDev             = "HTML ✅  |  CSS 🔄  |  JS 📚";
       string practising         = "LeetCode Daily";
-      string interests          = "Competitive Programming,
-                                    Web Development,
-                                    Open Source";
+      string building[3]        = {"ParcelVerse",
+                                    "CorridorIQ",
+                                    "NEUROCODE"};
       string dream              = "Software Engineer";
       bool   openToConnect      = true;
 
@@ -72,11 +73,12 @@ class AvikamGupta {
 
 **⚡ A few things about me**
 
-- 🎓 B.Tech CSE undergrad
+- 🎓 B.Tech CSE undergrad @ VIT Bhopal
 - 🧠 Deep-diving into **DSA** with C++ & Java
 - 🐍 Started **Python** — Basics & Conditionals done
 - 🗄️ Started **SQL** — Database Fundamentals done
 - 🌐 Completed **HTML**, currently sharpening **CSS**
+- 🚀 Built **3 real projects** — ParcelVerse, CorridorIQ & NEUROCODE
 - 📈 Documenting every step publicly on GitHub
 - 🎯 Solving problems on **LeetCode** every day
 - 🌱 100% committed to consistent progress
@@ -194,7 +196,21 @@ class AvikamGupta {
 | HTML | ████████████████████████ 100% | ✅ Completed |
 | CSS | ██████░░░░░░░░░░░░░░░░ 25% | 🔄 In Progress |
 | Competitive Coding | ███░░░░░░░░░░░░░░░░░░░ 10% | 🎯 Goal |
-| Projects | ██░░░░░░░░░░░░░░░░░░░░ 05% | 🚀 Upcoming |
+| Projects Built | ███████████░░░░░░░░░░░ 3 / 10+ | 🚀 In Progress |
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=3&color=0:0F2027,50:58A6FF,100:0F2027&animation=twinkling"/>
+
+## 🚀 Projects Built
+
+<div align="center">
+
+| # | Project | Description | Tech | Repo |
+|:---:|---|---|:---:|:---:|
+| 01 | **📦 ParcelVerse** | A parcel/delivery management web app with real-world logistics flow | HTML · CSS · JS | [View →](https://github.com/AvikamGupta/ParcelVerse) |
+| 02 | **🏢 CorridorIQ** | Smart corridor / space intelligence platform | HTML · CSS · JS | [View →](https://github.com/AvikamGupta/CorridorIQ) |
+| 03 | **🧠 NEUROCODE** | AI-powered code debugging web app built for an IEEE Hackathon | HTML · CSS · JS · AI | [View →](https://github.com/AvikamGupta/NEUROCODE) |
 
 </div>
 
@@ -219,6 +235,15 @@ class AvikamGupta {
 <a href="https://github.com/AvikamGupta/Web-Dev-Journey">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=AvikamGupta&repo=Web-Dev-Journey&theme=tokyonight&hide_border=true&title_color=58D68D&icon_color=58D68D"/>
 </a>
+<a href="https://github.com/AvikamGupta/Parcel-verse">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=AvikamGupta&repo=Parcel-verse&theme=tokyonight&hide_border=true&title_color=F7DC6F&icon_color=F7DC6F"/>
+</a>
+<a href="https://github.com/AvikamGupta/CorridorIQ">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=AvikamGupta&repo=CorridorIQ&theme=tokyonight&hide_border=true&title_color=A9CCE3&icon_color=A9CCE3"/>
+</a>
+<a href="https://github.com/AvikamGupta/NEUROCODE">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=AvikamGupta&repo=NEUROCODE&theme=tokyonight&hide_border=true&title_color=C39BD3&icon_color=C39BD3"/>
+</a>
 
 </div>
 
@@ -237,7 +262,7 @@ class AvikamGupta {
 | Complete SQL Journey | ⏳ Fundamentals ✅ · Table Creation Next |
 | Complete HTML & CSS | ⏳ HTML ✅ · CSS In Progress |
 | Learn JavaScript | 📚 Upcoming |
-| Build Real Projects | 📚 Upcoming |
+| Build Real Projects | 🚀 3 Built — ParcelVerse · CorridorIQ · NEUROCODE |
 | Participate in Coding Contests | 📚 Upcoming |
 | Contribute to Open Source | 📚 Upcoming |
 
@@ -261,6 +286,7 @@ class AvikamGupta {
 while (alive) {
     learn();
     code();
+    build();  // new addition 🚀
     improve();
     repeat();
 }
